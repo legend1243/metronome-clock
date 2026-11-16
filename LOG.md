@@ -4,4 +4,14 @@
 * ** added 0.1uF decoupling capacitor in between vcc and gnd
 * ** added led to show if its powered on.
 * ** wires MCU pins to pin connector(01x08 conn)
-* ** UPDI header safety resistor
+* ** added UPDI header safety resistor
+
+## 16 Nov 2026(~3hr): 
+* ** Finished schematic diagram
+* ** Wired GPIO pins to buzzers and LEDs
+* ** Tidied up the schematic diagram
+* ** Assigned footprint for each component
+* ** Finished footprint placement
+* ** Wire routing for 2 layer PCB
+* ** verified DRC
+* ** Decorated PCB
