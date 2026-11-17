@@ -1,0 +1,13 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,MANUFACTURER,Manufacturer_Name,Manufacturer_Part_Number,PACKAGE,Description
+BT1,1,Battery_Cell,,,,Battery:BatteryHolder_Keystone_2468_2xAAA,,,,,Single-cell battery
+C1,1,0.1u,,,,Capacitor_SMD:C_0805_2012Metric,,,,,Unpolarized capacitor
+D1,1,LED,,,,LED_SMD:LED_0805_2012Metric,,,,,Light emitting diode
+J1,1,Conn_01x03_Pin,,,,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,,,,"Generic connector, single row, 01x03, script generated"
+J2,1,Conn_01x04_Socket,,,,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,,,,,"Generic connector, single row, 01x04, script generated"
+LS1,1,PS1240P02BT,,,,PS1240P02BT:XDCR_PS1240P02BT,TDK Corporation,,,SIP-5 TDK,"Buzzers Transducer, Externally Driven Piezo 3 V - 4kHz 60dB @ 3V, 10cm Through Hole PC Pins"
+R1,1,PTV09A-4020F-B103,,,,Potentiometer - PTV09A:PTV09A4020FB103,,Bourns,PTV09A-4020F-B103,,"9mm carbon potentiometer linear 10K 20% Bourns PTV Series, Linear Potentiometer with a 6 mm Dia. Shaft, 10k, +/-20%, 0.05W, Through Hole"
+"R2,R5",2,150,,,,Resistor_SMD:R_0805_2012Metric,,,,,Resistor
+R3,1,470,,,,Resistor_SMD:R_0805_2012Metric,,,,,Resistor
+SW1,1,SW_Wuerth_450301014042,,,,Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm,,,,,"Switch slide, single pole double throw"
+SW3,1,SW_Push,,,,Button_Switch_SMD:SW_SPST_B3U-1000P,,,,,"Push button switch, generic, two pins"
+U1,1,ATtiny412-SS,,,,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,,,,,"20MHz, 4kB Flash, 256B SRAM, 128B EEPROM, SOIC-8"
