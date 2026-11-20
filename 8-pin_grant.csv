@@ -3,7 +3,7 @@ BT1,1,Battery_Cell,,,,Battery:BatteryHolder_Keystone_2468_2xAAA,,,,,Single-cell 
 C1,1,0.1u,,,,Capacitor_SMD:C_0805_2012Metric,,,,,Unpolarized capacitor
 D1,1,LED,,,,LED_SMD:LED_0805_2012Metric,,,,,Light emitting diode
 J1,1,Conn_01x03_Pin,,,,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,,,,"Generic connector, single row, 01x03, script generated"
-J2,1,Conn_01x04_Socket,,,,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,,,,,"Generic connector, single row, 01x04, script generated"
+J2,1,SH1106_OLED_1.3_I2C,,,,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,,,,,1.3 inch I2C SH1106 OLED 128x64 Display
 LS1,1,PS1240P02BT,,,,PS1240P02BT:XDCR_PS1240P02BT,TDK Corporation,,,SIP-5 TDK,"Buzzers Transducer, Externally Driven Piezo 3 V - 4kHz 60dB @ 3V, 10cm Through Hole PC Pins"
 R1,1,PTV09A-4020F-B103,,,,Potentiometer - PTV09A:PTV09A4020FB103,,Bourns,PTV09A-4020F-B103,,"9mm carbon potentiometer linear 10K 20% Bourns PTV Series, Linear Potentiometer with a 6 mm Dia. Shaft, 10k, +/-20%, 0.05W, Through Hole"
 "R2,R5",2,150,,,,Resistor_SMD:R_0805_2012Metric,,,,,Resistor
